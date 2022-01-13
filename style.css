@@ -1,0 +1,45 @@
+:root {
+    --color: white;
+}
+
+body {
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 96vh;
+    width: 96%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.color {
+    background-color: var(--color);
+    transition: all 1s ease;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    background-color: black;
+    padding: 15px;
+    width: 180px;
+    border-radius: 15px;
+    color: white;
+    font-size: 22px;
+    font-weight: 100;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    height: 50px;
+    font-weight: 100;
+    font-size: 45px;
+}
