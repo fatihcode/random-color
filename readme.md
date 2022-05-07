@@ -1,3 +1,3 @@
 # Random Background Color
 
-live demo: [https://fatihqaz.github.io/random-color/](https://fatihqaz.github.io/random-color/)
+live demo: [https://fatihcode.github.io/random-color/](https://fatihcode.github.io/random-color/)
